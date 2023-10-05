@@ -1,6 +1,6 @@
 # Movie_seat_booking   
 
-Hosting link ---   
+Hosting link ---    https://gautamkumar771.github.io/Movie_seat_booking
 
 The movie booking app code provided above is a JavaScript-based application for booking movie tickets. 
 Its primary purpose is to allow users to select a movie to there choice 
